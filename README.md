@@ -1,6 +1,6 @@
-# CollegeSpace
+# UniConnect
 
-CollegeSpace is a portal for students to find and share useful information that is mainly related to education without much effort. At College exam time or in between the semester, students can refer to this site for getting notes, previous years’ papers, books, FAQs, and useful links for particular subjects. 
+UniConnect is a portal for students to find and share useful information that is mainly related to education without much effort. At College exam time or in between the semester, students can refer to this site for getting notes, previous years’ papers, books, FAQs, and useful links for particular subjects. 
 
 
 ## Available Scripts
